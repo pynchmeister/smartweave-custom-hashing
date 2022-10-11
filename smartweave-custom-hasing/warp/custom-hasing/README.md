@@ -12,6 +12,10 @@ With ARWeave the goal is to get the CID as short as possible using a custom hash
 
 The idea is to use a smartweave contract to redirect one 'bitly style' link to the full CID, and then pack those in a struct. Once again referring to 'super-shadowy-slky'...
 
-Another option is to run a custom IPFS node using blake2B (hashes down to ~24 bits) which lets you store characters and it corresponds to a URL...which corresponds to the markdown of (prototype specific state)
+Another option is to run a custom IPFS node using blake2B (hashes down to ~24 bits) which lets you store characters and it corresponds to a URL...which corresponds to the markdown of (prototype specific state)...
+
+## Goals
+
+Complete smartweave contract that takes in a 7 character string and returns the CID of the corresponding ARWeave content.
 
                                                                                                                                                    
