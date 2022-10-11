@@ -6,6 +6,7 @@ export function handle(state, action) {
     }
     if (action.input.function === 'accept7CharacterString' && action.caller === state.hasher) {
         // @TODO
+        // state.hasher 
     }
     if (action.input.function === 'returnCIDCorrespondingContent' && action.caller === state.hasher) {
         // @TODO
