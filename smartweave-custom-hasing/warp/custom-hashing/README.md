@@ -18,10 +18,11 @@ Another option is to run a custom IPFS node using blake2B (hashes down to ~24 bi
 
 Complete smartweave contract that takes in a 7 character string and returns the CID of the corresponding ARWeave content.
 
-### Miscelleaneous
+### Miscelleaneous Resources
 
 <img width="407" alt="Screen Shot 2022-10-11 at 7 00 47 PM" src="https://user-images.githubusercontent.com/33232379/195213729-f9c3e2ce-5d4d-46ad-92a2-f4c041a1262e.png">
 
 * https://github.com/multiformats/multihash
+* https://github.com/near/near-blake2
 
                                                                                                                                              
