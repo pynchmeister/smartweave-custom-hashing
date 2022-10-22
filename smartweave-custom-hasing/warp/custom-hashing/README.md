@@ -24,5 +24,6 @@ Complete smartweave contract that takes in a 7 character string and returns the 
 
 * https://github.com/multiformats/multihash
 * https://github.com/near/near-blake2
+* https://github.com/pynchmeister/blakejs
 
                                                                                                                                              
